@@ -7,4 +7,4 @@ Endurant
 - Bring your headphones, tap Run, start running, App will play music in the background, which helps you to have regular breathing and exercise, which will help your running.
 
 
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg) ![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/freddielee/Endurant/blob/master/IMG_5131.png?raw=true) ![image](https://github.com/freddielee/Endurant/blob/master/IMG_5132.png?raw=true)
